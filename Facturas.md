@@ -33,23 +33,26 @@ He comprado un coche 25000€. He puesto de mi bolsillo 5000€ y debo del coche
 
 
 **Activo**
+
 | Producto  | Dinero |
 |:---------:| ------:|
 | Coche     | €25000 |
-| Ordenador | €1500  |
-| Muebles   | €1000  |
+| Ordenador |  €1500 |
+| Muebles   |  €1000 |
 
 **Pasivo**
+
 | Producto  | Dinero |
 |:---------:| ------:|
 | Coche     | €20000 |
-| Ordenador | €1500  |
+| Ordenador |  €1500 |
 
 **Neto**
-| Producto  | Dinero |
-|:---------:| ------:|
-| Coche     | €5000  |
-| Muebles   | €1000  |
+
+| Producto | Dinero |
+|:--------:| ------:|
+| Coche    |  €5000 |
+| Muebles  |  €1000 |
 
 **Activo = Neto + Pasivo**
 
