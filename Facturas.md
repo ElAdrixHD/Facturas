@@ -36,23 +36,23 @@ He comprado un coche 25000€. He puesto de mi bolsillo 5000€ y debo del coche
 
 | Producto  | Dinero |
 |:---------:| ------:|
-| Coche     | €25000 |
-| Ordenador |  €1500 |
-| Muebles   |  €1000 |
+| Coche     | 25000€ |
+| Ordenador |  1500€ |
+| Muebles   |  1000€ |
 
 **Pasivo**
 
 | Producto  | Dinero |
 |:---------:| ------:|
-| Coche     | €20000 |
-| Ordenador |  €1500 |
+| Coche     | 20000€ |
+| Ordenador |  1500€ |
 
 **Neto**
 
 | Producto | Dinero |
 |:--------:| ------:|
-| Coche    |  €5000 |
-| Muebles  |  €1000 |
+| Coche    |  5000€ |
+| Muebles  |  1000€ |
 
 **Activo = Neto + Pasivo**
 
@@ -65,9 +65,39 @@ Un balance es un documento que va a ser leido por muchas personas diferentes por
 Las normas comunes para la elaboracion de documentos contables se recoge en el plan general de contabilidad. Exixte un plan general adaptado para pymes. Se va a dividir el activo en varios grupos. 
 
 1º **No corriente** (Mas de un año):
+	+ *Inmovilizado Intangible*
+	+ *Inmovilizado Material*
 
 
 2º **Corriente** (Menos de un año):
-	+*Existencias*: Lo que guardo en el almacen.
-	+*Deudores*: Lo que me deben y espero cobrar.
-	+*Tesorería*: Lo que tengo en efectivo y banco.
+	+ *Existencias*: Lo que guardo en el almacen.
+	+ *Deudores*: Lo que me deben y espero cobrar.
+	+ *Tesorería*: Lo que tengo en efectivo y banco.
+
+El pasivo tambien se divide en:
+
+1º **No corriente** (Mas de un año):
+	Lo que tengo que pagar despues de un año.
+
+
+2º **Corriente** (Menos de un año):
+	Lo que tengo que pagar hasta un año.
+
+Cuando una empresa lleva una contabilidad no comienza elaborando un balance. El balance es el resultado de un proceso contable final.
+
+La contabilidad se inicia con la elaboracion de un libro diario. Un libro diario tiene el siguiente formato.
+
+| € 	  | D 			   | H     | € 	     |
+| -------:|:--------------:|:-----:|--------:|
+| 100000€ | Construcciones | Deuda | 100000€ |
+|     10€ | Material Offic | Proov |     10€ |
+|    500€ | Ordenador      | Caja  |    500€ |
+|    500€ | Movil          | Proov |     25€ |
+|      25€| Funda Movil    | Caja  |    500€ |
+
+**+Activo -> D
+-Activo -> H
++Neto -> H
+-Neto -> D
++Pasivo -> H
+-Pasivo -> D**
